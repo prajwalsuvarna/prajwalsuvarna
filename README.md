@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'ts [Prajwal](https://prajwalsuvarna1906@gmail.com)here!
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'ts [Prajwal](https://prajwalsuvarna1906@gmail.com) here!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&height=30&lines=Welcome+to+my+GITHUB+profile!)](https://git.io/typing-svg)
 <p align="center">I'm  a CS'24 Undergrad currently learning basic WEB DEV </p>
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <!-- <img src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp
 </p>
-
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsuvarna&theme=tokyonight)
