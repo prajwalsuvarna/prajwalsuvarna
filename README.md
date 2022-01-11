@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'ts [Prajwal](https://prajwalsuvarna1906@gmail.com)here!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&height=30&lines=Welcome+to+my+GITHUB+profile!)](https://git.io/typing-svg)
+<p align="center">I'm currently learning basic WEB DEV .</p>
+
