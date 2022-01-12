@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'ts [Prajwal](https://prajwalsuvarna1906@gmail.com) here!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&height=30&lines=Welcome+to+my+GITHUB+profile!)](https://git.io/typing-svg)
-<p align="center">I'm  a CS'24 Undergrad currently learning basic WEB DEV </p>
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&height=30&lines=Welcome+to+my+GITHUB+profile!)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F7F5&height=30&lines=Welcome+to+my+GITHUB+profile!;I+am+CS'24+Undergrad+;Exploring+the+world+of+Computer+Science!;I'm+currently+learning+basic+WEB+DEV+)](https://git.io/typing-svg)
+
 
 ## Languages
 <p align="center">
