@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp
 </p>
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsuvarna&theme=tokyonight)
+<p align = "center">- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsuvarna&theme=tokyonight)</p>
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsuvarna&hide=css,java,html&count_private=true&theme=tokyonight"> -->
 </p>
 
-# Languages
 
 <!-- </details>
 <a href="https://github.com/prajwalsuvarna">
