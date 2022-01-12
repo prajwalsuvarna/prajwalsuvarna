@@ -35,11 +35,12 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsuvarna&hide=css,java,html&count_private=true&theme=tokyonight">
 </p>
 
-
-</details>
+# Languages
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepRaoK&theme=tokyonight)
+<!-- </details>
 <a href="https://github.com/prajwalsuvarna">
   <img src="https://komarev.com/ghpvc/?username=prajwalsuvarna&label=Views&color=blue&style=plastic" alt="prajwalsuvarna" />
-</a>
+</a> -->
 - <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=prajwalsuvarna&theme=material-palenight&show_icons=true" alt="Prajwal Suvarna" /></p>
 
 
