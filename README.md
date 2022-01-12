@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsuvarna&hide=css,java,html&count_private=true&theme=tokyonight"> -->
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=prajwalsuvarna&count_private=true" width = 400>
-  <br>
   <br>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=prajwalsuvarna" width = 400>
 </p>
