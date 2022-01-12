@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=prajwalsuvarna&show_icons=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsuvarna&hide=css,java,html&count_private=true&theme=tokyonight">
+<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsuvarna&hide=css,java,html&count_private=true&theme=tokyonight"> -->
 </p>
 
 # Languages
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepRaoK&theme=tokyonight)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsuvarna&theme=tokyonight)
 <!-- </details>
 <a href="https://github.com/prajwalsuvarna">
   <img src="https://komarev.com/ghpvc/?username=prajwalsuvarna&label=Views&color=blue&style=plastic" alt="prajwalsuvarna" />
