@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp
 </p>
 
-<p align = "center">- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsuvarna&theme=tokyonight)</p>
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsuvarna&theme=tokyonight)
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
