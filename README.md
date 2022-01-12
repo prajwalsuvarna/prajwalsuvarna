@@ -25,3 +25,20 @@ Here are some ideas to get you started:
 <img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp
 </p>
 
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=prajwalsuvarna&show_icons=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsuvarna&hide=css,java,html&count_private=true&theme=tokyonight">
+</p>
+
+
+</details>
+<a href="https://github.com/prajwalsuvarna">
+  <img src="https://komarev.com/ghpvc/?username=prajwalsuvarna&label=Views&color=blue&style=plastic" alt="prajwalsuvarna" />
+</a>
+
+
