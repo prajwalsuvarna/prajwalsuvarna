@@ -40,5 +40,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/prajwalsuvarna">
   <img src="https://komarev.com/ghpvc/?username=prajwalsuvarna&label=Views&color=blue&style=plastic" alt="prajwalsuvarna" />
 </a>
+- <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=prajwalsuvarna&theme=material-palenight&show_icons=true" alt="Prajwal Suvarna" /></p>
 
 
