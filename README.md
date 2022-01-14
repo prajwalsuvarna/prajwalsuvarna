@@ -48,7 +48,20 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="22px">](https://www.linkedin.com/in/prajwal-suvarna-43446a218)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="22px">](https://www.instagram.com/prajwalsuvarrna)
-<!-- [<img src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" width="22px">](akshay.cs18@bmsce.ac.in) -->
+ <p align="center">
+    <a href="mailto:prajwalsuvarna1906@gmail.com" target="_blank">
+    <img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" height="40px" alt="mail"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://instagram.com/prajwalsuvarna" target="_blank">
+    <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" height="40px" alt="Instagram"/>
+    </a>&nbsp;&nbsp;
+     <a href="https://t.me/noobmaster019" target="_blank">
+    <img src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" height="40px" alt="Telegram"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/prajwal-suvarna-43446a218/" target="_blank">
+    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" height="40px"/>
+    </a>&nbsp;&nbsp;
+<!--     <a href="https://www.youtube.com/c/TheMaterrwelonn" target="_blank">
+    <img src="https://www.svgrepo.com/show/157839/youtube.svg" height="40px"/>
+    </a> -->
                                                                                          
