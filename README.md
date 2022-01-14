@@ -45,8 +45,10 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=prajwalsuvarna&label=Views&color=blue&style=plastic" alt="prajwalsuvarna" />
 </a> -->
 - <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=prajwalsuvarna&theme=material-palenight&show_icons=true" alt="Prajwal Suvarna" /></p>
-
-### Connect with me:
+<br>
+<br>
+ 
+ <p align="center">### Connect with me:</p>
 
  <p align="center">
     <a href="mailto:prajwalsuvarna1906@gmail.com" target="_blank">
