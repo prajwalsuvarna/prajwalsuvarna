@@ -47,10 +47,8 @@ Here are some ideas to get you started:
 - <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=prajwalsuvarna&theme=material-palenight&show_icons=true" alt="Prajwal Suvarna" /></p>
 
 ### Connect with me:
-<p align="center">
+
 [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="22px">](https://www.linkedin.com/in/prajwal-suvarna-43446a218)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="22px">](https://www.instagram.com/prajwalsuvarrna)
 <!-- [<img src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" width="22px">](akshay.cs18@bmsce.ac.in) -->
-</p>
-
                                                                                          
