@@ -47,8 +47,11 @@ Here are some ideas to get you started:
 - <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=prajwalsuvarna&theme=material-palenight&show_icons=true" alt="Prajwal Suvarna" /></p>
 <br>
 <br>
+<br>
+<br>
  
- <p align="center">### Connect with me:</p>
+ 
+ ### Connect with me:
 
  <p align="center">
     <a href="mailto:prajwalsuvarna1906@gmail.com" target="_blank">
